@@ -11,7 +11,7 @@ and query to the database.
 ### Clone repository
 
 ```bash
-git clone XXXX
+git clone git@github.com:paranoidAndroid0124/comp3005_A3.git
 ```
 
 The following programs must be installed
