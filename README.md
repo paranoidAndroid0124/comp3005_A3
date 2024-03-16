@@ -18,6 +18,7 @@ The following programs must be installed
 
 - Postgres
 - nodejs
+- yarn
 
 # Setup
 
