@@ -86,7 +86,7 @@ async function terminal() {
             break;
         case 4:
             try {
-                const answer: string = await questionAsync('Please enter student_id and the new email\n');
+                const answer: string = await questionAsync('Please enter student_id of student to be removed\n');
                 await deleteStudent(Number(answer));
             } catch (error) {
                 console.error('An error occurred', error)
