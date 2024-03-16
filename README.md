@@ -39,3 +39,7 @@ yarn start
 
 # Sql files
 All sql files generated can be found under src/drizzle
+
+# Demo
+youtube link
+https://youtu.be/WU0tk_xj_Y8
